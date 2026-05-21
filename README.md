@@ -11,6 +11,12 @@
 It does **not** provide medical diagnoses.  Always consult a qualified healthcare professional for clinical advice.
 
 ---
+## ## 👥 Team Members
+This project was designed and developed as a collaborative team effort for the hackathon by:
+* **Poludasu Manogna ** — [@Manogna86880](https://github.com/Manogna86880)
+* **Aryan** — [@aryangopisetty9](https://github.com/aryangopisetty9)
+* Poludasu Akshaya
+* Sreekar mani
 
 ## Architecture
 
